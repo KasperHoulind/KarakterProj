@@ -1,0 +1,14 @@
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\bin\Debug\netcoreapp2.1\TCPserver.deps.json
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\bin\Debug\netcoreapp2.1\TCPserver.runtimeconfig.json
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\bin\Debug\netcoreapp2.1\TCPserver.runtimeconfig.dev.json
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\bin\Debug\netcoreapp2.1\TCPserver.dll
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\bin\Debug\netcoreapp2.1\TCPserver.pdb
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\bin\Debug\netcoreapp2.1\KarakterLib.dll
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\bin\Debug\netcoreapp2.1\KarakterLib.pdb
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\obj\Debug\netcoreapp2.1\TCPserver.csprojAssemblyReference.cache
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\obj\Debug\netcoreapp2.1\TCPserver.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\obj\Debug\netcoreapp2.1\TCPserver.AssemblyInfoInputs.cache
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\obj\Debug\netcoreapp2.1\TCPserver.AssemblyInfo.cs
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\obj\Debug\netcoreapp2.1\TCPserver.csproj.CopyComplete
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\obj\Debug\netcoreapp2.1\TCPserver.dll
+C:\Users\Kasper\source\repos\MarkLib\TCPserver\obj\Debug\netcoreapp2.1\TCPserver.pdb

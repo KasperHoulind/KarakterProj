@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TCPserver/1.0.0": {
+        "dependencies": {
+          "KarakterLib": "1.0.0"
+        },
+        "runtime": {
+          "TCPserver.dll": {}
+        }
+      },
+      "KarakterLib/1.0.0": {
+        "runtime": {
+          "KarakterLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPserver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KarakterLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

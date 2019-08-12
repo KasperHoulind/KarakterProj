@@ -1,0 +1,9 @@
+C:\Users\Kasper\source\repos\MarkLib\MarkLib\obj\Debug\netcoreapp2.1\KarakterLib.csprojAssemblyReference.cache
+C:\Users\Kasper\source\repos\MarkLib\MarkLib\obj\Debug\netcoreapp2.1\KarakterLib.csproj.CoreCompileInputs.cache
+C:\Users\Kasper\source\repos\MarkLib\MarkLib\obj\Debug\netcoreapp2.1\KarakterLib.AssemblyInfoInputs.cache
+C:\Users\Kasper\source\repos\MarkLib\MarkLib\obj\Debug\netcoreapp2.1\KarakterLib.AssemblyInfo.cs
+C:\Users\Kasper\source\repos\MarkLib\MarkLib\bin\Debug\netcoreapp2.1\KarakterLib.deps.json
+C:\Users\Kasper\source\repos\MarkLib\MarkLib\bin\Debug\netcoreapp2.1\KarakterLib.dll
+C:\Users\Kasper\source\repos\MarkLib\MarkLib\bin\Debug\netcoreapp2.1\KarakterLib.pdb
+C:\Users\Kasper\source\repos\MarkLib\MarkLib\obj\Debug\netcoreapp2.1\KarakterLib.dll
+C:\Users\Kasper\source\repos\MarkLib\MarkLib\obj\Debug\netcoreapp2.1\KarakterLib.pdb
